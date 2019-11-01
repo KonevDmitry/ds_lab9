@@ -1,5 +1,6 @@
 # ds_lab9
 ## How chat looks like
+Chat was created with the help Node.js, which was based on: https://dzone.com/articles/creating-a-chat-application-in-node-js-with-expres
 ![Chat](https://github.com/KonevDmitry/ds_lab9/blob/master/chat.png)
 ## Status and config of instances
 Below are config and status of each instances during the work:
